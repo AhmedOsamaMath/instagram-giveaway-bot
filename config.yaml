@@ -1,0 +1,13 @@
+session_id: ""
+csrf_token: ""
+post_id: ""
+comment_texts:
+  - "Great post!"
+  - "Well done!"
+  - "Nice one!"
+  - "Amazing!"
+  - "Love this!"
+  - "Keep it up!"
+  - "Done!"
+max_comments_per_hour: 20
+max_comments_per_day: 100
